@@ -1,0 +1,100 @@
+html{
+    scroll-behavior: smooth;
+}
+.nvg_1{
+    background-color: tomato;
+    border-radius: 5px;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* position: fixed; */
+    width: 100%;
+    /* top: 90px; */
+    position: sticky;
+    top: 0;
+    
+}
+.nvg_1 a{
+    color: bisque;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    text-align: justify;
+}
+.up_btn{
+    text-decoration: none;
+    font-weight: bolder;
+    background-color: steelblue;
+    padding: 30px;
+    display: inline-block;
+    border-radius: 100px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.rr_ff:hover{
+    color: black;
+}
+
+
+img{
+    margin-top: 20px;
+    width: 100%;
+}
+.p_01{
+    border: 5px solid coral;
+    padding: 10px;
+    font-style: italic;
+    color: darkslategray;
+}
+.ul_1{
+    border: 9px solid coral;
+    background-color: cornflowerblue;
+    
+}
+.p_02{
+    border: 5px solid coral;
+    padding: 10px;
+    font-style: italic;
+    font-weight: bolder;
+    color: darkslategray;
+}
+.ul_ff{
+    border: 5px solid coral;
+    font-style: oblique;
+    font-variant: small-caps;
+}
+.p_03{
+    border: 5px solid coral;
+    padding: 10px;
+    font-style: italic;
+    color: darkslategray;
+}
+.p_01::first-letter{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.p_02::first-letter{
+    font-size: 30px;
+}
+.p_03::first-letter{
+    font-size: 30px;
+}
+.weed{
+    font-family: 'Courier New', Courier, monospace;
+}
+.MARQ{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
+.tenor-gif-embed{
+    height: 70px;
+    /* width: 100%; */
+    
+}
